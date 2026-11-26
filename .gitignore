@@ -1,0 +1,10 @@
+# 运行时产物
+selftest.log
+debug.txt
+*.pdb
+
+# 图标生成时的中间预览
+src/preview-*.png
+src/test-*.png
+src/app-old.ico
+src/capture.ps1
